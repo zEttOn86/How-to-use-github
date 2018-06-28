@@ -6,6 +6,8 @@ https://qiita.com/koshihikari/items/dcf126fa9c0de2b6fa7e
 https://www.slideshare.net/kawakawa__/visual-studio2013githubpush
 
 # git便利
+gitでよく調べるやつ
+
 ## git statusですべてのファイルを出力する方法
 https://qiita.com/m-yamazaki/items/45ea4a71ebb769995043
 
