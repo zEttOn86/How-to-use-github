@@ -14,6 +14,9 @@ https://qiita.com/m-yamazaki/items/45ea4a71ebb769995043
 ## ローカルでgitを使用した後、gitHubに登録する方法
 https://qiita.com/koshihikari/items/dcf126fa9c0de2b6fa7e
 
+## git / GitHubからいらないファイルを削除する
+http://mzgk.github.io/blog/2014/remove-file-from-github/
+
 # Visual StudioとGitHubを連携する方法
 
 http://changesworlds.com/2015/07/how-to-cooperation-of-visual-studio-and-github/
