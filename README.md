@@ -20,6 +20,9 @@ http://mzgk.github.io/blog/2014/remove-file-from-github/
 ## データ分析系研究者のためのgitによるバージョン管理
 https://qiita.com/kaz-yos/items/33f6622932d548d62525
 
+## 私が機械学習研究をするときのコード・データ管理方法
+https://qiita.com/ysekky/items/3db54349452dd8a336fb
+
 # Visual StudioとGitHubを連携する方法
 
 http://changesworlds.com/2015/07/how-to-cooperation-of-visual-studio-and-github/
