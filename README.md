@@ -17,6 +17,9 @@ https://qiita.com/koshihikari/items/dcf126fa9c0de2b6fa7e
 ## git / GitHubからいらないファイルを削除する
 http://mzgk.github.io/blog/2014/remove-file-from-github/
 
+## データ分析系研究者のためのgitによるバージョン管理
+https://qiita.com/kaz-yos/items/33f6622932d548d62525
+
 # Visual StudioとGitHubを連携する方法
 
 http://changesworlds.com/2015/07/how-to-cooperation-of-visual-studio-and-github/
