@@ -1,11 +1,11 @@
-# How to use github
-githubの使い方をメモしていく
+# How to use Github
+Githubの使い方をメモしていく
 
-# gitの基本的な使い方
+# Gitの基本的な使い方
 ## マージでの衝突を解決する
 https://backlog.com/ja/git-tutorial/stepup/stepup2_7.html
 
-# gitで便利
+# Gitで便利
 gitでよく調べるやつ
 
 ## git statusですべてのファイルを出力する方法
@@ -23,8 +23,10 @@ https://qiita.com/kaz-yos/items/33f6622932d548d62525
 ## 私が機械学習研究をするときのコード・データ管理方法
 https://qiita.com/ysekky/items/3db54349452dd8a336fb
 
-# Visual StudioとGitHubを連携する方法
+## Githubの草について
+https://qiita.com/kohei-takata/items/dee09ec89b42126e0d85
 
+# Visual StudioとGitHubを連携する方法
 http://changesworlds.com/2015/07/how-to-cooperation-of-visual-studio-and-github/
 https://qiita.com/koshihikari/items/dcf126fa9c0de2b6fa7e  
 https://www.slideshare.net/kawakawa__/visual-studio2013githubpush
