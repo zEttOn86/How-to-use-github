@@ -1,10 +1,7 @@
 # MEMO
 Github, Gitなどの使い方をメモしていく
 
-[:contents]
-
 ### Githubm Gitの基本的な使い方
-Gitでよく調べるやつ
 
 [マージでの衝突を解決する](https://backlog.com/ja/git-tutorial/stepup/stepup2_7.html)
 
@@ -30,10 +27,7 @@ Gitでよく調べるやつ
 
 [私が機械学習研究をするときのコード・データ管理方法](https://qiita.com/ysekky/items/3db54349452dd8a336fb)
 
-===
+---
 
-<div align="center">
-  <img src=http://a2.mzstatic.com/jp/r30/Purple/v4/91/27/a3/9127a3f1-57a6-4deb-356f-6e50e1089172/screen480x480.jpeg "みつを名言1">
-</div>
+<img src=http://a2.mzstatic.com/jp/r30/Purple/v4/91/27/a3/9127a3f1-57a6-4deb-356f-6e50e1089172/screen480x480.jpeg "みつを名言1">
 
-===
