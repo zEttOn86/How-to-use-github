@@ -1,7 +1,7 @@
 # MEMO
 Github, Gitなどの使い方をメモしていく
 
-### Githubm Gitの基本的な使い方
+## Github, Gitの基本的な使い方
 
 [マージでの衝突を解決する](https://backlog.com/ja/git-tutorial/stepup/stepup2_7.html)
 
@@ -10,6 +10,10 @@ Github, Gitなどの使い方をメモしていく
 [ローカルでgitを使用した後、gitHubに登録する方法](https://qiita.com/koshihikari/items/dcf126fa9c0de2b6fa7e)
 
 [git / GitHubからいらないファイルを削除する](http://mzgk.github.io/blog/2014/remove-file-from-github/)
+
+[API key等をgithubで公開しない方法](https://qiita.com/uma0317/items/e142661c004f68d858a5)
+
+[GitHub にパスワードとかセンシティブなファイルを push してしまったときの対処法](https://qiita.com/dtan4/items/34e41e3bd40a43fd8cbf)
 
 #### おまけ
 
@@ -21,7 +25,8 @@ Github, Gitなどの使い方をメモしていく
 
 [Visual studio2013からGithubへPushする方法](https://www.slideshare.net/kawakawa__/visual-studio2013githubpush)
 
-### 研究役立ちそう
+
+## 研究役立ちそう
 
 [データ分析系研究者のためのgitによるバージョン管理](https://qiita.com/kaz-yos/items/33f6622932d548d62525)
 
