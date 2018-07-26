@@ -29,5 +29,7 @@ Github, Gitなどの使い方をメモしていく
 
 ---
 
-<img src=http://a2.mzstatic.com/jp/r30/Purple/v4/91/27/a3/9127a3f1-57a6-4deb-356f-6e50e1089172/screen480x480.jpeg "みつを名言1">
+![みつを名言1](http://a2.mzstatic.com/jp/r30/Purple/v4/91/27/a3/9127a3f1-57a6-4deb-356f-6e50e1089172/screen480x480.jpeg)
+
+---
 
