@@ -32,6 +32,17 @@ Github, Gitなどの使い方をメモしていく
 
 [私が機械学習研究をするときのコード・データ管理方法](https://qiita.com/ysekky/items/3db54349452dd8a336fb)
 
+
+## Python系
+
+#### Path関係
+
+[python備忘録](https://qiita.com/ymdymd/items/d758110d429f72bc10fb)
+
+[Pythonでのパス名操作いろいろ](https://kiwamiden.com/path-manipulations-on-python)
+
+[pythonでファイル位置から１つ上のディレクトリをsys.pathに追加する](https://gist.github.com/y16ra/20158615453dcc8e4bb6f656c8955e13)
+
 ---
 
 ![みつを名言1](http://a2.mzstatic.com/jp/r30/Purple/v4/91/27/a3/9127a3f1-57a6-4deb-356f-6e50e1089172/screen480x480.jpeg)
