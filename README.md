@@ -32,8 +32,7 @@ Github, Gitなどの使い方をメモしていく
 
 [私が機械学習研究をするときのコード・データ管理方法](https://qiita.com/ysekky/items/3db54349452dd8a336fb)
 
-
-## Python系
+### Python
 
 #### Path関係
 
@@ -42,6 +41,10 @@ Github, Gitなどの使い方をメモしていく
 [Pythonでのパス名操作いろいろ](https://kiwamiden.com/path-manipulations-on-python)
 
 [pythonでファイル位置から１つ上のディレクトリをsys.pathに追加する](https://gist.github.com/y16ra/20158615453dcc8e4bb6f656c8955e13)
+
+#### numpy
+
+[numpyでdynamicに配列を追加](https://qiita.com/fist0/items/d0779ff861356dafaf95)
 
 ---
 
