@@ -15,6 +15,8 @@ Github, Gitなどの使い方をメモしていく
 
 [GitHub にパスワードとかセンシティブなファイルを push してしまったときの対処法](https://qiita.com/dtan4/items/34e41e3bd40a43fd8cbf)
 
+[Git 1ファイルだけ別のブランチから持ってくる](https://qiita.com/oret/items/b646fcada9d89ed308c4)
+
 #### おまけ
 
 [Githubの草について](https://qiita.com/kohei-takata/items/dee09ec89b42126e0d85)
