@@ -17,6 +17,8 @@ Github, Gitなどの使い方をメモしていく
 
 [Git 1ファイルだけ別のブランチから持ってくる](https://qiita.com/oret/items/b646fcada9d89ed308c4)
 
+[Gitでコンフリクト対処時の便利コマンド検証](https://qiita.com/mizukmb/items/f12765a9efdaeb2973e5)
+
 #### おまけ
 
 [Githubの草について](https://qiita.com/kohei-takata/items/dee09ec89b42126e0d85)
